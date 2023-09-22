@@ -21,3 +21,4 @@ const generateMessage = () => {
 
 generateMessage();
 console.log("That was my message generator")
+
