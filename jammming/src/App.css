@@ -1,0 +1,33 @@
+* {
+    font-family: 'Gabarito', sans-serif;
+    color: #444444;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0%;
+}
+
+.track-container {
+    display: flex;
+    margin: 1rem;
+    justify-content: space-between;
+}
+
+#add-button {
+    padding-left: 20%;
+}
